@@ -22,11 +22,11 @@
 
 | Home Screen | 119 Templates | Documents Vault |
 |---|---|---|
-| ![Home](Home.jpg) | ![Templates](Templates.jpg) | ![Saved Documents](SavedDocuments.png) |
+| ![Home](Home.jpg) | ![Templates](Templates.jpg) | ![Saved Documents](Saveddocuments.jpg) |
 
 | User Profile | Samvidhan AI |
 |---|---|
-| ![Profile](Profile.png) | ![Samvidhan](samvidhanai.jpg) |
+| ![Profile](Profile.jpg) | ![Samvidhan](Samvidhanai.jpg) |
 ---
 
 ## 📖 Table of Contents
