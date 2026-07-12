@@ -24,9 +24,9 @@
 |---|---|---|
 | ![Home](home.jpg) | ![Templates](templates.jpg) | ![Saved Documents](saveddocuments.png) |
 
-| User Profile | Samvidhan AI | Property Templates |
-|---|---|---|
-| ![Profile](sprofile.png) | ![Samvidhan](samvidhan.jpg) | !
+| User Profile | Samvidhan AI |
+|---|---|
+| ![Profile](sprofile.png) | ![Samvidhan](samvidhan.jpg) |
 ---
 
 ## 📖 Table of Contents
