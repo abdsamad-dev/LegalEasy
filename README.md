@@ -18,7 +18,15 @@
 [Download App](https://www.mediafire.com/file/poze2b67wdetqx1/ci1zkn.apk/file) 
 
 </div>
+📸 Screenshots
 
+| Home Screen | 119 Templates | Documents Vault |
+|---|---|---|
+| ![Home](home.jpg) | ![Templates](templates.jpg) | ![Saved Documents](saveddocuments.png) |
+
+| User Profile | Samvidhan AI | Property Templates |
+|---|---|---|
+| ![Profile](sprofile.png) | ![Samvidhan](samvidhan.jpg) | !
 ---
 
 ## 📖 Table of Contents
